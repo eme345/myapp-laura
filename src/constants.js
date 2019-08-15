@@ -1,4 +1,4 @@
-const HOST = 'https://myapp-emerson.herokuapp.com'
+const HOST = 'https://test-final.herokuapp.com'
 
 module.exports = {
   HOST
